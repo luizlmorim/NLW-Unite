@@ -22,4 +22,4 @@ O Cadastro de Participantes é uma aplicação simples que permite realizar o ca
 
 •	JavaScript
 
-Link: 
+Link: https://cadastrocheckin.netlify.app/
